@@ -1,0 +1,28 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+prog
+zad*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Build directories
+build/
+cmake-build-*
+
+# Dependencies
+node_modules/
+
