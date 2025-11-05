@@ -3,7 +3,6 @@
 *.out
 *.o
 prog
-zad*
 
 # IDE files
 .vscode/
